@@ -135,6 +135,8 @@ typeof(?)
 
 ---
 
+@snap[midpoint text-left span-90 text-06]
+
 ## Инструкция var
 
 #### Синтаксическая конструкция
