@@ -135,14 +135,14 @@ typeof(?)
 
 ---
 
-@snap[midpoint text-left span-90 text-06]
+@snap[midpoint text-left span-90 text-05]
 
 ## Инструкция var
 
 #### Синтаксическая конструкция
 
 ```
-var n? [= v?][, n? [= v?][, n? [= v?][, n? [= v?]]...]]
+var n? [= v?][, n? [= v?][, n? [= v?][, n? [= v?]...]]]
 ```
 
 #### Чтение
