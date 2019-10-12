@@ -53,7 +53,7 @@
 
 @snap[midpoint text-left span-90 text-05]
 
-### string
+## string
 
 Тип данных. Хранит строки из символов.
 
@@ -72,7 +72,7 @@
 
 @snap[midpoint text-left span-90 text-05]
 
-### number
+## number
 
 Тип данных. Хранит числа.
 
@@ -91,7 +91,7 @@
 
 @snap[midpoint text-left span-90 text-05]
 
-### Выражение typeof
+## Выражение typeof
 
 #### Синтаксическая конструкция
 
