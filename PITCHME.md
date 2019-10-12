@@ -4,7 +4,7 @@
 
 ---
 
-@snap[west span-90]
+@snap[midpoint span-90]
 
 #### Синтаксическая конструкция (СК)
 
