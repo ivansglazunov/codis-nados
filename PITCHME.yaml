@@ -1,0 +1,12 @@
+theme            : template
+
+theme-background : [ "#5289F7" ]
+theme-headline   : [ "Helvetica", "white", "none" ]
+theme-byline     : [ "Helvetica", "black", "none" ]
+theme-text       : [ "Helvetica", "#000000", "none" ]
+theme-links      : [ "#000000", "#000000" ]
+theme-code       : [ "Inconsolata" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
+highlight        : ir-black
