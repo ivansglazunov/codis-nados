@@ -61,8 +61,7 @@
 
 ---
 
-@snap[midpoint text-left span-90]
-@css[text-05]
+@snap[midpoint text-left span-90 text-05]
 
 ## string
 
@@ -82,8 +81,7 @@
 
 ---
 
-@snap[midpoint text-left span-90]
-@css[text-05]
+@snap[midpoint text-left span-90 text-05]
 
 ## number
 
@@ -103,8 +101,7 @@
 
 ---
 
-@snap[midpoint text-left span-90]
-@css[text-05]
+@snap[midpoint text-left span-90 text-05]
 
 ## Выражение typeof
 
@@ -124,8 +121,7 @@ typeof(?)
 
 ---
 
-@snap[midpoint text-left span-90]
-@css[text-05]
+@snap[midpoint text-left span-90 text-05]
 
 ## Выражение присвоения
 
@@ -153,8 +149,7 @@ typeof(?)
 
 ---
 
-@snap[midpoint text-left span-90]
-@css[text-05]
+@snap[midpoint text-left span-90 text-05]
 
 ## Инструкция var
 
